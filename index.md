@@ -1,5 +1,5 @@
 ---
-title: "Module 3 HTML document"
+title: "Curriculum"
 author: "Yohn Jairo Parra Bautista, PhD."
 date: "2/15/2021"
 output: 
