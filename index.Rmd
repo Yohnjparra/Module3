@@ -17,7 +17,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Module 3 - HTML document
+# Module 3 - Curriculum
 
 ## R Markdown {#neextsteps .emphasized}
 

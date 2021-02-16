@@ -15,7 +15,7 @@ output:
 
 
 
-# Module 3 - HTML document
+# Module 3 - Curriculum
 
 ## R Markdown {#neextsteps .emphasized}
 
